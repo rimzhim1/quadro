@@ -1,2 +1,2 @@
 # quadro
-website created uing html css and bootstrap
+website created using html css and bootstrap
